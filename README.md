@@ -1,2 +1,3 @@
 # lab0
- lab0 ödevinin yapılması - ödevi tanımlayan bilgiler
+
+![Lab 0 - Gif ](outputs/lab0.gif)
